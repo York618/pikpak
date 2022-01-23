@@ -1,2 +1,0 @@
-# pikpak
-pikpak web
